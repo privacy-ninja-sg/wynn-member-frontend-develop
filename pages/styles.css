@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&family=Prompt&display=swap');
+
+.wynn-text-box {
+    color:white;
+    background-color: black;
+    outline: none;    
+}
+.wynn-text-box:focus{
+    background-color: black;
+}
+.img-fluid{
+    max-width: 100%;
+}
+
+input:hover:focus{
+    background-color: black;
+}
+
+body {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
