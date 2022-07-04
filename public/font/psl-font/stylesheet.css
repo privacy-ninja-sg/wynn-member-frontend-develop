@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PSL Similanya';
+    src: url('PSLSimilanya.woff2') format('woff2'),
+        url('PSLSimilanya.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
